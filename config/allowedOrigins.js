@@ -1,3 +1,3 @@
-const allowedOrigins = ['https://eng-req-tracker.onrender.com/login']
+const allowedOrigins = ['https://eng-req-tracker.onrender.com']
 
 module.exports = allowedOrigins
